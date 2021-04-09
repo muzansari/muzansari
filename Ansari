@@ -1,0 +1,11 @@
+Clone & Pull
+============
+git init
+git remote add origin https://github.com/muzansari/Demo1.git
+git pull origin master
+or 
+git clone https://github.com/muzansari/Demo1.git 
+---------------
+git pull origin child
+
+git remote remove origin
