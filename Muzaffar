@@ -8,4 +8,6 @@ git clone https://github.com/muzansari/Demo1.git
 ---------------
 git pull origin child
 
-git remote remove origin
+git remote remove origina
+
+This is a new line added from local repo
